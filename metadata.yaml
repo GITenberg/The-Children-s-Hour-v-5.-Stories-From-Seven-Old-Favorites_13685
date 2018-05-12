@@ -1,0 +1,32 @@
+_repo: The-Children-s-Hour-v-5.-Stories-From-Seven-Old-Favorites_13685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Literature -- Adaptations'
+tableOfContents: The pilgrim's progress -- Robinson Crusoe -- Gulliver's travels --
+  Don Quixote -- The Arabian nights -- The travels of Baron Munchausen -- Tales from
+  Shakespeare.
+title: The Children's Hour, v 5. Stories From Seven Old Favorites
+url: http://www.gutenberg.org/ebooks/13685
